@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Encryptador</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Material+Icons+Two+Tone"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <section class="main-container">
+      <section class="app-container">
+        <section class="left-area">
+          <img class="logo" src="./assets/logo.png" alt="logo" />
+          <section class="input-area">
+            <textarea
+              class="txt-input"
+              placeholder="Ingrese el texto aquí"
+            ></textarea>
+            <label class="label-info">
+              <span class="material-icons-two-tone icon"> info </span>
+              Solo letras minusculas y sin acentos
+            </label>
+            <section class="left-buttons">
+              <button class="crypt-button btn">Encriptar</button>
+              <button class="decrypt-button btn">Desencriptar</button>
+            </section>
+          </section>
+        </section>
+        <section class="right-area">
+          <textarea
+            class="txt-output"
+            placeholder="Texto encriptado"
+            disabled
+          ></textarea>
+          <button class="copy-button btn">Copiar</button>
+        </section>
+      </section>
+    </section>
+    <script type="text/javascript" src="./js/app.js"></script>
+  </body>
+</html>
