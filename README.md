@@ -1,7 +1,7 @@
 
 # Table of Contents
 
-1.  [Challenge Alura (No oficial) : encriptador](#org90dc380)
+1.  [Challenge Alura : encriptador](#org90dc380)
     1.  [Contenido](#org761b774)
     2.  [Imagenes](#org9d2f7bc)
         1.  [Primera pantalla](#orgf4797a9)
