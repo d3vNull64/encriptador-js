@@ -13,7 +13,7 @@
 
 <a id="org90dc380"></a>
 
-# Challenge Alura (No oficial) : encriptador
+# Challenge Alura : encriptador
 
 
 <a id="org761b774"></a>
